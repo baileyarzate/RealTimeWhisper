@@ -4,9 +4,14 @@
 
 # Flight Use Case
 
+To do immediate real time transcription, run the following commands in your Anaconda PowerShell terminal. 
 ```bash
-git clone 
+pip install RealtimeSTT
+git clone https://github.com/baileyarzate/RealTimeWhisper.git
+cd RealTimeWhisper
+python testsForFlight/Real Time STT - test2.py
 ```
+Warning: this script assumes you have a cuda enabled GPU. 
 
 ## New
 
