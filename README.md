@@ -11,7 +11,7 @@ git clone https://github.com/baileyarzate/RealTimeWhisper.git
 cd RealTimeWhisper
 python testsForFlight/Real Time STT - test2.py
 ```
-Warning: this script assumes you have a cuda enabled GPU. 
+Warning: this script assumes you have a CUDA enabled GPU. 
 
 ## New
 
